@@ -1,4 +1,4 @@
-This project developed for turn on led on spring boot via arduino. 
+his project developed for turn on led on spring boot via arduino. 
 Used technolohies: Spring boot, arduino, firmata, firmat4j, axios, vue.js, html, css.
 
 ---
@@ -15,3 +15,8 @@ Arduino Part
 You should upload firmata code to arduino.
 
 Open Arduino IDE > Select Your Arduino Port > Examples >  Firmata > Standart Firmata > Upload Code To Arduino 
+
+---
+
+home.html
+![Home](/Img/homeImg.PNG)
